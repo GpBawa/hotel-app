@@ -20,7 +20,8 @@ import { HomeModule } from '../home/home.module';
     ReactiveFormsModule,
     AppRoutingModule,
     RouterModule,
-    HomeModule
+    HomeModule,
+    
 ]
 })
 export class ReservationModule { }
